@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <h1 align="center">Hi, I'm Utku 👋</h1>
+  <h1 align="center">Hi, I'm Utku </h1>
 </p>
 
 <p align="center">
